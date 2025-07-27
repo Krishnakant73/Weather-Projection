@@ -2,6 +2,8 @@
 Wildfire Burned Area Prediction
 This repository contains a Flask web application that predicts the burned area of forest fires using a Ridge regression model. The application uses environmental variables as input and displays the burned area in hectares.
 
+Deploy on Render :-https://weather-projection.onrender.com/
+
 #Table of Contents
 Features
 Demo
